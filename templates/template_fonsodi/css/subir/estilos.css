@@ -1,0 +1,11 @@
+.ir-arribas {
+	padding:20px;
+	display:inline-block;
+	background:#024959;
+	color:#fff;
+	position: fixed;
+	font-size:20px;
+	bottom:20px;
+	right:20px;	 
+	cursor:pointer;
+}
